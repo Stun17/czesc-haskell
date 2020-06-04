@@ -1,0 +1,17 @@
+command-line TexasHoldem Poker game
+
+requirements: Unix/Linux , Haskell compiler
+
+install:
+
+cd src/
+make
+
+
+uninstall:
+
+remove the prodject dir
+
+license: WTHPL
+
+ejnoy!
